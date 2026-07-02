@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+music_recs/__init__.py
+music_recs/catalog.py
+music_recs/data.py
+music_recs/evaluate.py
+music_recs/recommend.py
+music_recs/similarity.py
+music_recs.egg-info/PKG-INFO
+music_recs.egg-info/SOURCES.txt
+music_recs.egg-info/dependency_links.txt
+music_recs.egg-info/requires.txt
+music_recs.egg-info/top_level.txt
+tests/test_recommender.py
